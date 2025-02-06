@@ -14,7 +14,7 @@ For this assignment, my partner Shauraya Salwan and I created a Star Wars charac
 - **AJAX**: To make requests to the Star Wars API and get data.
 - **HTML**: For the structure of the page.
 - **CSS/SASS**: To style the page and make it look nice.
-- - **JS**: To add functionality
+-  **JS** : To add functionality
 
 ## Features
 
