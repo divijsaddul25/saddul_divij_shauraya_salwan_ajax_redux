@@ -1,3 +1,14 @@
+header {
+  background-color: #1860c4;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
 body {
   font-family: 'Poppins', sans-serif;
   background-image: url('/images/bg_image.jpg');
@@ -8,12 +19,6 @@ body {
   margin: 0;
   padding: 0;
 }
-
-
-
-
-
-
 
 
 #movie-box {
