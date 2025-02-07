@@ -93,6 +93,7 @@
       "Return of the Jedi": "images/return_of_the_jedi.jpg",
       "Revenge of the Sith": "images/revenge_of_the_sith.jpg",
       "Attack of the Clones": "images/attack_of_the_clones.jpg",
+      "The Phantom Menace" : "images/the_phantom_menace.jpg",
     };
 
     return posters[title] || "images/default.jpg";
